@@ -1,0 +1,6 @@
+give @s minecraft:netherite_sword[minecraft:enchantments={fire_aspect:2,looting:3,sharpness:5,sweeping_edge:3},minecraft:rarity="epic",minecraft:unbreakable={}]
+give @s minecraft:netherite_spear[minecraft:enchantments={fire_aspect:2,looting:3,lunge:3,sharpness:5},minecraft:rarity="epic",minecraft:unbreakable={}]
+give @s minecraft:trident[minecraft:enchantments={channeling:1,impaling:5,loyalty:3},minecraft:rarity="epic",minecraft:unbreakable={}]
+give @s minecraft:trident[minecraft:enchantments={impaling:5,riptide:3},minecraft:rarity="epic",minecraft:unbreakable={}]
+give @s minecraft:bow[minecraft:enchantments={flame:1,infinity:1,power:5},minecraft:rarity="epic",minecraft:unbreakable={}]
+give @s minecraft:crossbow[minecraft:enchantments={multishot:1,piercing:4,quick_charge:3},minecraft:rarity="epic",minecraft:unbreakable={}]
